@@ -23,7 +23,18 @@ h3{
 	text-align: center;
 }
 
+.experiencia{
+	border: solid 2px #DBD7D7 ;
+	border-radius: 20px;
+	width: 40%;
+	align-content: center;
+	display: block;
+	margin: auto;
+	
+}
 .proyecto{
+	width: 50%;
+	height: 500px;
 display: block;
 	margin: auto;
 }
